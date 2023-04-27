@@ -28,7 +28,7 @@ Suggestions:
 ------------------------------------------
 
 -- script version
-local scriptver = "Admin"
+local scriptver = "Developer"
 
 
 -- library
