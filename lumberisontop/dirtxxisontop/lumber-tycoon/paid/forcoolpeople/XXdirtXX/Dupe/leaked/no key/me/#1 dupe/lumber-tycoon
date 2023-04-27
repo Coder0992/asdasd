@@ -28,12 +28,12 @@ Suggestions:
 ------------------------------------------
 
 -- script version
-local scriptver = "Admin)"
+local scriptver = "Admin"
 
 
 -- library
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Dirtxx Hub v3 (".. scriptver, HidePremium = true, SaveConfig = true, ConfigFolder = "Ripp3r", IntroText = "Dirt Hubxx!", IntroIcon = "rbxassetid://6034227061"})
+local Window = OrionLib:MakeWindow({Name = "Dirtxx Hub v3 ".. scriptver, HidePremium = true, SaveConfig = true, ConfigFolder = "Ripp3r", IntroText = "Dirt Hubxx!", IntroIcon = "rbxassetid://6034227061"})
 
 
 
